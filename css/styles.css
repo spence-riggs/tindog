@@ -133,8 +133,8 @@ p {
 }
 
 .press-logo {
-    width: 15%;
-    padding: 20px 20px 20px;
+    width: 70%;
+    padding: 20px;
 }
 
 
@@ -210,6 +210,11 @@ p {
     .title-image {
         position: static;
         transform: rotate(0);
+    }
+
+    .press-logo {
+        width: 50%;
+        padding: 20px;
     }
     
 }
